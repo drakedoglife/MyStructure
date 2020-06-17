@@ -1,0 +1,2 @@
+# MyStructure
+MyStructure
